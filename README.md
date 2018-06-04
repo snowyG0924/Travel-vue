@@ -17,10 +17,19 @@ npm run build
 # build for production and view the bundle analyzer report
 npm run build --report
 ```
+#### 项目概述：
+1）axios进行ajax的获取
+2）vue-router进行多页面之间的路由
+3）vuex做组件之间的数据共享
+4）stylus编写样式
+5）使用递归组件，实现组件调用自身的效果
+6）使用各种插件，比如swiper实现轮播效果
+7）共用组件的拆分
 
-For a detailed explanation on how things work, check out the [guide](http://vuejs-templates.github.io/webpack/) and [docs for vue-loader](http://vuejs.github.io/vue-loader).
+#### 技术栈：
+vue + vuex + vue-router + axios + webpack + ES6 + stylus + flex <br/>
 
-演示截图如下：
+#### 演示截图如下：
 
 ![image](https://github.com/snowyG0924/Travel-vue/blob/master/demoPictures/01.jpg)
 ![image](https://github.com/snowyG0924/Travel-vue/blob/master/demoPictures/02.jpg)
