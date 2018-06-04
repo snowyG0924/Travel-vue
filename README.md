@@ -22,9 +22,9 @@ For a detailed explanation on how things work, check out the [guide](http://vuej
 
 演示截图如下：
 
- ![image](https://github.com/snowyG0924/Travel-vue/demoPictures/01.jpg)
- ![image](https://github.com/snowyG0924/Travel-vue/demoPictures/02.jpg)
- ![image](https://github.com/snowyG0924/Travel-vue/demoPictures/03.jpg)
- ![image](https://github.com/snowyG0924/Travel-vue/demoPictures/04.jpg)
- ![image](https://github.com/snowyG0924/Travel-vue/demoPictures/05.jpg)
- ![image](https://github.com/snowyG0924/Travel-vue/demoPictures/06.jpg)
+![image](https://github.com/snowyG0924/Travel-vue/blob/master/demoPictures/01.jpg)
+![image](https://github.com/snowyG0924/Travel-vue/blob/master/demoPictures/02.jpg)
+![image](https://github.com/snowyG0924/Travel-vue/blob/master/demoPictures/03.jpg)
+![image](https://github.com/snowyG0924/Travel-vue/blob/master/demoPictures/04.jpg)
+![image](https://github.com/snowyG0924/Travel-vue/blob/master/demoPictures/05.jpg)
+![image](https://github.com/snowyG0924/Travel-vue/blob/master/demoPictures/06.jpg)
