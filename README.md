@@ -3,7 +3,7 @@
 一个由Vue.js编写的旅游WebApp。
 A travel WebApp by Vue.js.
 
-> travel app
+
 ## 开始
 
 ## Build Setup
