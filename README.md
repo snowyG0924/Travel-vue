@@ -1,4 +1,4 @@
-#VueTravelApp
+# VueTravelApp
 ## 介绍
 一个由Vue.js编写的旅游WebApp。
 A travel WebApp by Vue.js.
